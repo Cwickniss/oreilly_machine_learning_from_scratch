@@ -58,3 +58,20 @@ for i in range(1_000_000):
 
 print("1.0 / (1 + exp(-({0} + {1}*x))".format(b0, b1))
 print("BEST LIKELIHOOD: {0}".format(math.exp(best_likelihood)))
+
+
+# Plotting the logistic regression
+import matplotlib.pyplot as plt
+
+x_values = np.linspace(min(p.x for p in points), max(p.x for p in points), 100)
+y_values = [1.0 / (1.0 + np.exp(-(b0 + b1 * x))) for x in x_values]
+
+plt.figure(figsize=(8, 6))
+plt.scatter([p.x for p in points], [p.y for p in points], color='blue', label='Data Points')
+plt.plot(x_values, y_values, color='red', label='Logistic Regression')
+plt.xlabel('X')
+plt.ylabel('Probability')
+plt.title('Logistic Regression Fit')
+plt.legend()
+plt.grid(True)
+plt.show()
