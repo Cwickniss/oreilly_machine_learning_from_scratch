@@ -2,6 +2,9 @@
 
 # O'Reilly Machine Learning from Scratch
 
+JetBrains Promotion
+Get a free 3 month license for JetBrains developer tools (including PyCharm, DataGrip) using code 3min_datascience: https://www.jetbrains.com/all/
+
 Materials for the O'Reilly online training "Machine Learning from Scratch"
 
 [SIGNUP HERE](https://learning.oreilly.com/search/?query=machine%20learning%20from%20scratch&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&include_collections=true&include_notebooks=false&is_academic_institution_account=false&source=user&formats=live%20online%20training&sort=relevance&facet_json=true&page=0)
