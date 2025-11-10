@@ -2,6 +2,9 @@
 
 # O'Reilly Machine Learning from Scratch
 
+My new Manning book _Grokking Statistics_ is available for early release!
+[https://hubs.la/Q03Kvp3z0](https://hubs.la/Q03Kvp3z0)
+
 JetBrains Promotion
 Get a free 3 month license for JetBrains developer tools (including PyCharm, DataGrip) using code 3min_datascience: https://www.jetbrains.com/all/
 
